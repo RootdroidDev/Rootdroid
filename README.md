@@ -17,5 +17,6 @@ Rootdroid is all about freedom, power, and cool tools. It’s made for people wh
 - 🎨 **PleaseModMii** – Customize *everything*.
 - 🔔 **Rootify** – Get notified when a new root version is out!
 
+---
 
 ## Note that Rootdroid is still in development so stay tuned!
