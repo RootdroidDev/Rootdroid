@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+
+# Rootdroid secret stuff
+rtc
+/system/hidden/
