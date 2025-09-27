@@ -21,4 +21,4 @@ Rootdroid is all about freedom, power, and cool tools. It’s made for people wh
 
 ## Note that Rootdroid is still in development so stay tuned!
 
-Edit: its been a while since i started thid project. the reason why i cant continue is because of storage issues but currently im saving up for a 4 TB hardrive so i can continue my dream of making this project.
+Edit: its been a while since i started thid project. the reason why i cant continue is because of storage issues but currently im saving up for a 4 TB hardrive so i can continue my dream of making this project so please me patient.
