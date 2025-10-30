@@ -13,7 +13,7 @@ Rootdroid is all about freedom, power, and cool tools. It’s made for people wh
 - 🧪 **Termux** – Terminal power in your pocket.
 - 📦 **App Manager** – Uninstall *anything*. Seriously.
 - 🔁 **Quick Reboot** – Reboot like a legend.
-- 🐧 **Lin2Droid** – Fake Ubuntu terminal for big brain fun.
+- 🐧 **Lin2Droid** – Ubuntu terminal for big brain fun.
 - 🎨 **PleaseModMii** – Customize *everything*.
 - 🔔 **Rootify** – Get notified when a new root version is out!
 
